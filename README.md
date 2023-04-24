@@ -19,7 +19,8 @@ token='ENTER YOUR BOT TOKEN'
 ### Usage:
 
 ```bash
-npm run test
+npm install
+node src/index.js
 ```
 
 <a href="https://i.imgur.com/ftsgvpy.png"><img src="https://i.imgur.com/ftsgvpy.png" title="help"/></a>
