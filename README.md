@@ -9,7 +9,7 @@ Get your session cookie by inspecting network in DevTools when connecting to [ht
 
 Also find your Discord Bot token on [https://discord.com/developers/applications](https://discord.com/developers/applications)
 
-Put them a `.env` file at the root
+Put them in a `.env` file at the root
 ```env
 user='ENTER YOUR SESSION COOKIE'
 token='ENTER YOUR BOT TOKEN'
